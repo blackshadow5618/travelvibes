@@ -1,0 +1,31 @@
+.blog {
+  padding: 2rem;
+  text-align: center;
+}
+
+.blog h2 {
+  font-size: 2rem;
+  margin-bottom: 1rem;
+}
+
+.blog-posts {
+  display: flex;
+  justify-content: center;
+  gap: 1rem;
+}
+
+.post {
+  background-color: #f4f4f4;
+  padding: 1rem;
+  border-radius: 10px;
+  width: 45%;
+}
+
+.post h3 {
+  font-size: 1.5rem;
+  margin-bottom: 0.5rem;
+}
+
+.post p {
+  font-size: 1rem;
+}

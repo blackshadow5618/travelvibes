@@ -1,0 +1,26 @@
+.about-thailand {
+  padding: 2rem;
+  text-align: center;
+}
+
+.about-thailand h2 {
+  font-size: 2rem;
+  margin-bottom: 1rem;
+}
+
+.about-thailand p {
+  font-size: 1.2rem;
+  max-width: 800px;
+  margin: 0 auto 2rem;
+}
+
+.image-gallery {
+  display: flex;
+  justify-content: center;
+  gap: 1rem;
+}
+
+.image-gallery img {
+  width: 30%;
+  border-radius: 10px;
+}
